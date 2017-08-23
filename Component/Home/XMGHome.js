@@ -126,6 +126,10 @@ const styles = StyleSheet.create({
         fontSize: 20,
         textAlign: 'center',
         margin: 10,
+    },
+    listStyle:{
+        marginTop:30,
+        backgroundColor:'red'
     }
 });
 
