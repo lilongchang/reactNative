@@ -128,7 +128,6 @@ const styles = StyleSheet.create({
         margin: 10,
     },
     listStyle:{
-        marginTop:30,
         backgroundColor:'red'
     }
 });
